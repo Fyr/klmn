@@ -1,0 +1,5 @@
+msgid "You are not authorized to access that location."
+msgstr "У вас нет прав доступа к данной странице!"
+
+msgid "Login failed. Invalid username or password."
+msgstr "Неверное имя пользователя или пароль!"

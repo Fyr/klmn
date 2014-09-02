@@ -1,0 +1,44 @@
+.error, .errNote {
+	color: #f00;
+	font-weight: bold;
+}
+
+.pad5 td, .pad5 th {
+	padding: 3px 5px;
+}
+
+.required {
+	color: #000;
+}
+ul.nav {
+	margin: 0 0 0 20px;
+}
+ul.nav li {
+}
+ul.nav > li > a, ul.nav > li > a:visited {
+	background: url("/img/bread-mark.png") 3px 3px no-repeat;
+	padding: 0 0 0 13px;
+	font-weight: bold;
+	text-decoration: none;
+}
+ul.nav > li > a.active {
+	background: url("/img/bread-mark-active.png") 0px 5px no-repeat;
+}
+ul.subnav {
+	padding: 0 0 0 13px;
+	display: none;
+}
+ul.subnav li {
+	font-size: 11px;
+}
+.sidebar .widget.types .title{
+	background: url(/img/wtitle-types.png) no-repeat center top;
+}
+.content p {
+	margin: 10px 0 10px 0;
+}
+ul.list {
+	list-style-type: square;
+	list-style-position: outside;
+	margin-left: 25px;
+}
